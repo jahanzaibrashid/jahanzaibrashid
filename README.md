@@ -7,6 +7,8 @@
 - 🌱 I’m currently learning Next.js, Smart contract development, MongoDB, GraphQL,
 - 📫 How to reach me: Just ping me at linkedin
 - 😄 Pronouns: He/Him
+
+🛠️  Technology Stack
  <!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
