@@ -8,7 +8,7 @@
 - 📫 How to reach me: Just ping me at linkedin
 - 😄 Pronouns: He/Him
 
-🛠️ Technology Stack
+## 🛠️ Technology Stack
 - Programming Languages
 
 
