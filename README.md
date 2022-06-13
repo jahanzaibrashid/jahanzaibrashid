@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there 👋 my name is Jahanzaib Rashid
+## I am JavaScript/web3 developer 
 
 
 
