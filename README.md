@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Jahanzaib Rashid
 
-#### I'm a JavaScript Developer with blockchain experienc.
+#### I'm a JavaScript Developer with blockchain experience.
 
 -   🔭 I’m currently working on React, Web3, Ethers.js, Node.js, Express, PostgreSQL
 -   🌱 I’m currently learning Next.js, TypeScript, MongoDB, GraphQL,Smart Contract Development, 
